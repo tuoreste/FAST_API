@@ -58,7 +58,7 @@ Remember to activate your virtual environment (`source myenv/bin/activate`) when
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+To be added ...
 
 ## Acknowledgments
 
